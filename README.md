@@ -6,14 +6,14 @@
 The **Face Mask Detection System** is designed to identify individuals wearing face masks in real-time using a webcam or image input. Built using **Convolutional Neural Networks (CNN)** with **Keras**, **TensorFlow**, and **OpenCV**, this system effectively classifies masked and unmasked faces and enhances public health monitoring.
 
 ## 📂 Project Structure  
-├── dataset
-│   ├── with_mask (690 images)
-│   ├── without_mask (689 images)
-├── haarcascades (face detection classifier)
-├── images (examples of detections)
-├── models (trained models: .h5, .keras)
-├── notebooks (Jupyter Notebooks for training & analysis)
-├── scripts (Python scripts for execution)
+*├── dataset*
+*│   ├── with_mask (690 images)*
+*│   ├── without_mask (689 images)*
+*├── haarcascades (face detection classifier)*
+*├── images (examples of detections)*
+*├── models (trained models: .h5, .keras)*
+*├── notebooks (Jupyter Notebooks for training & analysis)*
+*├── scripts (Python scripts for execution)*
 
 ## 🛠 Technologies Used  
 - **Python** (Programming Language)  
@@ -36,5 +36,7 @@ The **Face Mask Detection System** is designed to identify individuals wearing f
 (images/no_mask_detection.png)  
 
 
-## **📜 LicenseThis project is open-source and free to use for educational and research purposes.**
-## **🙌 ContributingContributions are always welcome! Feel free to open issues or submit pull requests. 😊**
+## 📜 License
+**This project is open-source and free to use for educational and research purposes.**
+## 🙌 Contributing
+**Contributions are always welcome! Feel free to open issues or submit pull requests. 😊**
