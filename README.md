@@ -1,7 +1,7 @@
 # Face Mask Detection System  
 🚀 **Real-time face mask detection using deep learning and computer vision**  
 
-![Project Banner](C:\Users\debad\OneDrive\Desktop\Face Mask Detection\banner.png.jpg)
+![Project Banner](images/banner.png)
 ## 📌 Overview  
 The **Face Mask Detection System** is designed to identify individuals wearing face masks in real-time using a webcam or image input. Built using **Convolutional Neural Networks (CNN)** with **Keras**, **TensorFlow**, and **OpenCV**, this system effectively classifies masked and unmasked faces and enhances public health monitoring.
 
@@ -36,5 +36,5 @@ The **Face Mask Detection System** is designed to identify individuals wearing f
 (images/no_mask_detection.png)  
 
 
-##**📜 LicenseThis project is open-source and free to use for educational and research purposes.**
+## **📜 LicenseThis project is open-source and free to use for educational and research purposes.**
 ## **🙌 ContributingContributions are always welcome! Feel free to open issues or submit pull requests. 😊**
