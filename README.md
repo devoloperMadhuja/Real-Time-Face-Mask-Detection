@@ -30,10 +30,10 @@ The **Face Mask Detection System** is designed to identify individuals wearing f
 
 ## 📸 Sample Predictions
 **Below are some sample detections of the system:**
-*✅ Correctly detected "With Mask" image:*
+-✅ Correctly detected "With Mask" image:
 ![WhatsApp Image 2025-05-20 at 01 23 22_cf75d334](https://github.com/user-attachments/assets/287f6f05-b1d2-4ffc-9fe2-eb8c4e97d93d)
 
-*❌ Correctly detected "Without Mask" image:*
+-❌ Correctly detected "Without Mask" image:
 
 ![WhatsApp Image 2025-05-20 at 01 23 22_5c817eb9](https://github.com/user-attachments/assets/8b43c398-0c43-4e72-bdb1-245be22d6784)
 
